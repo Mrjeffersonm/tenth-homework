@@ -12,9 +12,9 @@ N/A
 
 To use this program, run node index.js in the terminal and fill out the prompts with the info you want to display.
 
-## Liscense
+## License
 
-Please refer to the LISCENSE in the repo.
+Please refer to the LICENSE in the repo.
 
 ## Link
 
